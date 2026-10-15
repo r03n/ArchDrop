@@ -1,0 +1,6 @@
+[submodule "omdrop-owl"]
+	path = omdrop-owl
+	url = https://github.com/t4t5/omdrop-owl.git
+[submodule "omdrop-plugin"]
+	path = omdrop-plugin
+	url = https://github.com/brentkearney/omdrop-plugin.git
