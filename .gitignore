@@ -1,0 +1,27 @@
+# Test logs and temporary reports
+test-logs/
+*.log
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Build artifacts
+omdrop-owl/build/
+omdrop-owl/upstream/
+omdrop-owl/src/
+omdrop-owl/pkg/
+*.tar.zst
+
+# Runtime state
+.omdrop/
+/run/omdrop-owl/
+
+# Editor and OS temporary files
+*.swp
+*.swo
+*~
+.DS_Store

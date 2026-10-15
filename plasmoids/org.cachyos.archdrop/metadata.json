@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "cachyos@archdrop.local",
+                "Name": "ArchDrop Team"
+            }
+        ],
+        "Category": "Hardware",
+        "Description": "Apple AirDrop file sender & receiver for CachyOS / KDE Plasma 6",
+        "Icon": "network-wireless-symbolic",
+        "Id": "org.cachyos.archdrop",
+        "Name": "ArchDrop",
+        "Version": "1.0.0",
+        "Website": "https://github.com/t4t5/omdrop-owl"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "Hardware"
+}
